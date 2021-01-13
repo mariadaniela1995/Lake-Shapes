@@ -1,6 +1,5 @@
 # Methods codes
 
-1. Methods
 
 Here you can find the five methods for retrieving lake surface water temperature.
 
