@@ -1,9 +1,13 @@
 # Lake-Shapes
 Here you can find the lake shapes used in the Google Earth Engine Codes linked below.
 
-Method 4: https://code.earthengine.google.com/7e0ae76320f09e90dc75604b3212e68d
+Method 1: https://code.earthengine.google.com/95f364c1bc71e7d124ad01bf54376be8
 
-Methods 2, 3 and 5: https://code.earthengine.google.com/e3c56d5380b12587ccc2434fceb5518a
+Method 4: https://code.earthengine.google.com/5574c894f10f890582f767913e4600d3
+
+Methods 2, 3 and 5: https://code.earthengine.google.com/6a7428c4cab9ab10bbc055d667a1179b
+
+Instructions:
 
 You have to import the shapes in the following way:
 1. Download lake shapes in your computer
