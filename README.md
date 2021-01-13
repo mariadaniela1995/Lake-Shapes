@@ -1,4 +1,4 @@
-# Lake-Shapes
+# Lake-Shapes and methods codes
 Here you can find the lake shapes used in the Google Earth Engine Codes linked below.
 
 Method 1: https://code.earthengine.google.com/95f364c1bc71e7d124ad01bf54376be8
